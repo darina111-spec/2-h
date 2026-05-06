@@ -1,1 +1,14 @@
-# 2-h
+p {
+	font: 13px/20px "Times New Roman";
+}
+
+p {
+	width: 300px;
+	color: red;
+	font: bold 40px Arial;
+}
+
+p {
+	text-indent: 50px;
+	font: italic bold 40px/60px Arial;
+}
